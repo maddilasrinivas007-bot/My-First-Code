@@ -20,7 +20,7 @@ A fully responsive, modern portfolio website built with **HTML**, **CSS**, and *
 - ⚡ **Smooth Animations** - CSS animations and Intersection Observer effects
 - 🎯 **Smooth Scrolling** - Smooth navigation between sections
 - 📍 **Active Navigation Indicator** - Shows current section in navbar
-- ⬆️ **Scroll-to-Top Button** - Quick return to top
+- ⬆️ **Scroll-to-Top Button** - Quick return to tops
 - 💬 **Contact Form Validation** - Client-side form validation
 - 🎨 **Modern Design** - Clean, professional styling with gradients
 - ⌨️ **Keyboard Shortcuts** - Press 'H' for home, 'C' for contact
